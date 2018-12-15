@@ -30,7 +30,6 @@ $(document).ready(function () {
             controls:true
         });
 
-        $("#dtBox").DateTimePicker();
 
     }); // doc.ready
 });
