@@ -30,7 +30,10 @@ $(document).ready(function () {
             controls:true
         });
 
+<<<<<<< HEAD
         
+=======
+>>>>>>> 8fa5af79678a47590f657eccb0152ed09defe5de
 
     }); // doc.ready
 });
